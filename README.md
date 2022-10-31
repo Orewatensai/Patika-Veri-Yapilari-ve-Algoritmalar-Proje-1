@@ -1,5 +1,6 @@
 # Veri Yapıları ve Algoritmalar - Proje 1
 https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
+
 https://app.patika.dev/orhantr
 
 [22,27,16,2,18,6]
